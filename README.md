@@ -118,6 +118,10 @@ Send email to employee on approval or rejection.
 
 Include relevant details: dates, hours, category, manager comments.
 
+10. Using Existing Portal.
+    
+Use existing hardware.
+
 ## Pseudocode
 ```
 employee opens VTS portal
